@@ -1,4 +1,4 @@
-# BWC Score Exploration
+# BWC Scores Exploration
 
 The data of this analysis is retrieve by scraping last year world championship results on BWF official web page. The data was retrieve by using python package beautifulsoup4. Here are some field that we can get from the website:
 <ol>
